@@ -1,5 +1,5 @@
 // Patrick: "My destiny is mine alone to shape, and no one can dictate it for me." - Scaramouche (Genshin Impact) 
-
+// Ashley: "If you want to get something you never had, you have to do something you never did." - Thomas Jefferson
 
 import 'package:flutter/material.dart';
 
